@@ -1,0 +1,3 @@
+#!/bin/bash
+
+nanoc compile
